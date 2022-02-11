@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-# 감지 & 번역 공통 API Key
+# 감지 및 번역 공통 API Key
 client_id = ""
 client_secret = ""
 
