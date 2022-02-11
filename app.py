@@ -5,8 +5,8 @@ import json
 app = Flask(__name__)
 
 # 감지 & 번역 공통 API Key
-client_id = "jBo1lIYFCr31lRY_kjgL"
-client_secret = "7MNo0lscW_"
+client_id = ""
+client_secret = ""
 
 @app.route("/")
 def hello_world():
